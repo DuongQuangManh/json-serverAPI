@@ -1,36 +1,22 @@
 {
-  "posts": [
+  "accounts": [
     {
-      "title": "anh  dai dien",
-      "author": "Nguyen Van A",
-      "content": "anh dai dien shin cau be but chi",
-      "image": "https://i.pinimg.com/736x/4a/4c/29/4a4c29807499a1a8085e9bde536a570a.jpg",
-      "like": 0,
-      "imgauthor": "https://i.pinimg.com/736x/4a/4c/29/4a4c29807499a1a8085e9bde536a570a.jpg",
-      "status": "😂 dang cam thay buon cuoi",
+      "name": "DQ Manh",
+      "email": "manhdqph20768@fpt.edu.vn",
+      "sex": "Nam",
+      "dateofbirth": "15/02/2003",
+      "password": "123",
+      "type": "admin",
       "id": "1"
     },
     {
-      "title": "anh  dai dien",
-      "author": "Nguyen Van B",
-      "content": "anh dai dien shin cau be but chi",
-      "image": "https://i.pinimg.com/736x/4a/4c/29/4a4c29807499a1a8085e9bde536a570a.jpg",
-      "like": 0,
-      "imgauthor": "https://i.pinimg.com/736x/4a/4c/29/4a4c29807499a1a8085e9bde536a570a.jpg",
-      "status": "😂 dang cam thay buon cuoi",
+      "name": "LG Tuan",
+      "email": "tuanlgph20769@fpt.edu.vn",
+      "sex": "Nam",
+      "dateofbirth": "15/02/2004",
+      "password": "123",
+      "type": "admin",
       "id": "2"
-    }
-  ],
-  "status": [
-    {
-      "title": "cap nhat anh dai dien",
-      "author": "DQ Manh",
-      "content": "anh dai dien manh",
-      "image": "https://i.pinimg.com/736x/4a/4c/29/4a4c29807499a1a8085e9bde536a570a.jpg",
-      "like": 0,
-      "imgauthor": "https://i.pinimg.com/736x/4a/4c/29/4a4c29807499a1a8085e9bde536a570a.jpg",
-      "status": "😂 dang cam thay buon cuoi",
-      "id": "1"
     }
   ]
 }
