@@ -7,7 +7,7 @@
       "dateofbirth": "15/02/2003",
       "password": "123",
       "type": "admin",
-      "id": "1"
+      "id": 1
     },
     {
       "name": "LG Tuan",
@@ -16,7 +16,7 @@
       "dateofbirth": "15/02/2004",
       "password": "123",
       "type": "admin",
-      "id": "2"
+      "id": 2
     }
   ]
 }
